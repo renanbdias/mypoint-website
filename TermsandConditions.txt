@@ -1,0 +1,66 @@
+Terms and Conditions
+1. Introduction
+
+Welcome to MyPoint! By using our app, you agree to comply with these Terms and Conditions. Please read them carefully.
+
+2. Definitions
+
+No specific terms have been identified for definitions.
+
+3. User Eligibility
+
+MyPoint is available to all users without any age restrictions. However, users under 13 should have parental consent to use the app.
+
+4. User Account
+
+No account creation is required to use MyPoint. However, to sync data between devices, a working Apple ID is necessary.
+
+5. Content Creation
+
+Users can create matches to store game points of each set and track their workouts, which are synced with the Health app. This data is private and only accessible to the user.
+
+6. License to Use
+
+Users are granted a non-exclusive, non-transferable, revocable license to use the app for personal, non-commercial purposes.
+
+7. Acceptable Use and Prohibited Conduct
+
+Users must use the app in accordance with these Terms and Conditions. Prohibited behaviors include, but are not limited to:
+
+Unlawful activities
+Harassment, threatening, or abusing other users
+Impersonation or unauthorized use of another person's account
+Spamming or unsolicited messaging
+Reverse engineering or attempting to extract the source code of the app
+Any activity that interferes with or disrupts the app's services
+8. Termination of Access
+
+User access to MyPoint may be terminated under the following circumstances:
+
+Misuse of the app, such as attempting to manipulate data or use it for unintended purposes.
+Engaging in illegal activities or violating applicable laws.
+Breaching these Terms and Conditions.
+At the sole discretion of the developer for any other reasons deemed necessary to protect the app or its users.
+9. Intellectual Property
+
+All content and materials within the app are owned by Renan Benatti Dias or our licensors and are protected by intellectual property laws.
+
+10. Limitation of Liability
+
+MyPoint is provided "as is" without any warranties. Renan Benatti Dias is not liable for any damages arising from the use of the app. Users assume full responsibility for their use of the app, including any indirect, incidental, or consequential damages.
+
+11. Governing Law
+
+These Terms and Conditions are governed by and construed in accordance with the laws of Brazil. Any disputes arising from these terms shall be subject to the exclusive jurisdiction of the courts of Brazil.
+
+12. Changes to Terms
+
+The developer reserves the right to modify these Terms and Conditions at any time. Users will be notified of any changes through the app.
+
+13. Copyright Infringement
+
+Users can report any copyright violations by contacting renanbenattidias@icloud.com. Reported content will be reviewed and removed if found to be infringing.
+
+14. Contact Information
+
+If you have any questions about these Terms and Conditions, please contact us at renanbenattidias@icloud.com.
