@@ -3,32 +3,43 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>MyPoint Landing Page</title>
+	<title>My Point Landing Page</title>
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.3/css/bulma.min.css">
 	<link rel="stylesheet" media="(min-width: 1025px)" href="styles-desktop.css">
 	<link rel="stylesheet" media="(max-width: 768px)" href="styles-mobile.css">
+	<script src="index.js"></script>
 </head>
 <body>
 
 	<nav>
 	  <ul>
 	  	<li class="nav-li">
-	  		<a class="navbar-item" href="mailto:renanbenattidias@icloud.com">Support</a>
+	  		<span class="navbar-item left app-name" id="app-label">My Point</span>
 	  	</li>
 
-	  	<li class="nav-li">
-	  		<a class="navbar-item" href="privacy-policy-en.html">Privacy Policy</a>
+			<li class="nav-li">
+	  		<img src="images/app-icon.png" class="center" id="app-icon" alt="Your App Icon">
 	  	</li>
 
-	  	<li class="nav-li">
-	  		<a class="navbar-item" href="terms-of-use-en.html">Terms of Use</a>
-	  	</li>
+			<div class="right-group">
+		  	<li class="nav-li right">
+		  		<a class="navbar-item" href="mailto:renanbenattidias@icloud.com">Support</a>
+		  	</li>
 
-	  	<li>
-	  		<a class="navbar-item" href="https://twitter.com/renanbdias" target="_blank">
-					<img class="logo" src="images/twitter-logo.svg" alt="Twitter Logo">
-				</a>
-	  	</li>
+		  	<li class="nav-li right">
+		  		<a class="navbar-item" href="privacy-policy-en.html">Privacy Policy</a>
+		  	</li>
+
+		  	<li class="nav-li right">
+		  		<a class="navbar-item" href="terms-of-use-en.html">Terms of Use</a>
+		  	</li>
+
+		  	<li>
+		  		<a class="navbar-item" href="https://twitter.com/renanbdias" target="_blank">
+						<img class="logo" src="images/twitter-logo.png" alt="Twitter Logo">
+					</a>
+		  	</li>
+		  </div>
 	  </ul>
 	</nav>
 
@@ -41,7 +52,7 @@
 		</div>
 	</div>
 
-	<h1 class="huge-title">MyPoint</h1>
+	<h1 class="huge-title">My Point</h1>
 
 	<div class="button-container">
 		<a class="download-button" href="#">Coming Soon</a>
@@ -49,7 +60,7 @@
 
 	<div class="subtitle-container">
 		<span class="has-text-centered subtitle-padding">
-			Track your tennis matches and workouts effortlessly with MyPoint.
+			Track your tennis matches and workouts effortlessly with My Point.
 		</span>
 	</div>
 
@@ -63,7 +74,7 @@
 	<div class="feature-column-container">
 
 		<div class="feature-container-left">
-			<span class="feature-subtitle">
+			<span class="feature-subtitle feature-scoreboard">
 				Game Scoreboard
 			</span>
 
@@ -71,16 +82,16 @@
 
 			<div class="feature-column-container">
 				<span class="feature-content">
-					The scoreboard is designed to provide a seamless and intuitive way to track your matches. With real-time updates, you can easily input and monitor the scores of each game and set. You can also check which side you should be serving from. MyPoint keeps you organized and focused on the game.
+					The scoreboard is designed to provide a seamless and intuitive way to track your matches. With real-time updates, you can easily input and monitor the scores of each game and set. You can also check which side you should be serving from. My Point keeps you organized and focused on the game.
 				</span>
 
-				<img class="feature-container-image" src="images/event-planning.png" alt="">		
+				<img class="feature-container-image" src="images/watch-1.png" alt="" style="width: 320px;">
 			</div>
 
 		</div>
 
 		<div class="feature-container-right">
-				<span class="feature-subtitle">
+				<span class="feature-subtitle feature-healthkit">
 				HealthKit Integration
 			</span>
 
@@ -88,10 +99,10 @@
 
 			<div class="feature-column-container">
 				<span class="feature-content">
-					HealthKit integration to provide a holistic view of your tennis activities and workouts. By syncing your workout data with the Health app, MyPoint ensures that all your fitness metrics are centralized and easily accessible. This integration allows you to track your calories burned, heart rate, and other vital statistics in real-time while playing tennis.
+					HealthKit integration to provide a holistic view of your tennis activities and workouts. By syncing your workout data with the Health app, My Point ensures that all your fitness metrics are centralized and easily accessible. That way you can track calories burned, heart rate, and other vital statistics in real-time while playing tennis.
 				</span>
 
-				<img class="feature-container-image" src="images/collaboration.png" alt="">		
+				<img class="feature-container-image" src="images/watch-2.png" alt="" style="width: 320px;">		
 			</div>
 
 		</div>
@@ -102,34 +113,34 @@
 
 		<div class="feature-container-left">
 			<!-- <span class="feature-subtitle" style="color: rgb(61, 68, 195);"> -->
-				<span class="feature-subtitle">
-				Live Metrics
+				<span class="feature-subtitle feature-game-metrics">
+				Game Metrics
 			</span>
 
 			<br>
 
 			<div class="feature-column-container">
 				<span class="feature-content">
-					Track your tennis performance in real-time with MyPoint’s live metrics. Monitor your heart rate, calories burned, and match progress seamlessly as you play. Stay focused and informed with instant updates and detailed insights into your game.
+					Experience game tracking with My Point’s game metrics. <br>With a total points chart and points history chart, providing a clear overview of your performance. <br>Stay focused and informed with instant updates and detailed game metrics.
 				</span>
 
-				<img class="feature-container-image" src="images/browse.png" alt="">		
+				<img class="feature-container-image" src="images/phone-2.png" alt="">		
 			</div>
 		</div>
 
 		<div class="feature-container-right">
-			<span class="feature-subtitle">
-				Seamless iCloud<br> Synchronization
+			<span class="feature-subtitle feature-icloud">
+				Seamless iCloud Synchronization
 			</span>
 
 			<br>
 
 			<div class="feature-column-container">
 				<span class="feature-content">
-					Sync your tennis data effortlessly with your iPhone with MyPoint's iCloud integration. Keep your match history and workout metrics up to date, accessible anytime, anywhere.
+					Sync your data effortlessly with your iPhone using iCloud.<br> Keep your match history and workout metrics up to date, accessible anytime, anywhere, whether you're reviewing past matches or tracking your latest workout.
 				</span>
 
-				<img class="feature-container-image" src="images/icloud-sync.png" alt="" style="width: 287px;">		
+				<img class="feature-container-image" src="images/phone-3.png" alt="">
 			</div>
 		</div>
 
@@ -137,7 +148,7 @@
 
 	<div class="subtitle-container">
 		<span class="has-text-centered subtitle-padding">
-			Download MyPoint today and start tracking your matches.
+			Download My Point today and start tracking your matches.
 		</span>
 	</div>
 
